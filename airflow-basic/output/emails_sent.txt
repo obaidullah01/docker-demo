@@ -1,0 +1,3 @@
+Email sent to john@test.com
+Email sent to alice@test.com
+Email sent to bob@test.com
